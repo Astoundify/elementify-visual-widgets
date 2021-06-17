@@ -47,6 +47,6 @@ You can purchase it by visiting our website, link below:
 
 == Changelog ==
 
-= 1.0.0: May 03, 2021 =
+= 1.0.0: Jun 16, 2021 =
 
 First release! -- Elementify Visual Widgets.
