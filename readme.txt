@@ -2,7 +2,7 @@
 Contributors: Astoundify
 Plugin Name: Elementify Visual Widgets
 Tags: Elemantor, widgets, Elementify
-Requires at least: Wordpress 5.6 
+Requires at least: Wordpress 5.6
 Tested up to: Wordpress 5.7.1
 Stable Tag: 1.0.0
 Version: 1.0.0
@@ -15,25 +15,11 @@ Get the Pro Version ie. Elementify, here: https://astoundify.com/products/elemen
 
 == Description ==
 
-Elementify Visual Widgets is a free plugin packed with stunning elements to extend Elementor Page Builder functionality and make your website look like it is designed by a Professional Web Designer! 
-The plugin makes Elementor Page Builder even more powerful and easy to use. We have put in a lot of thought in developing elements for the plugin that help the users to enhance their website capabilities! 
+Elementify Visual Widgets is a free plugin packed with stunning elements to extend Elementor Page Builder functionality and make your website look like it is designed by a Professional Web Designer!
+The plugin makes Elementor Page Builder even more powerful and easy to use. We have put in a lot of thought in developing elements for the plugin that help the users to enhance their website capabilities!
 We have a great backlog and more features to add over the plugin!
 
 Note: Plugin is also fully compatible with Jobify and Listify Themes.
-
-== Copyright ==
-
-Elementify, Copyright 2020 is distributed under the terms of the GNU GPL.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
 
 == Frequently Asked Questions ==
 
@@ -47,13 +33,13 @@ It's called Elementify
 
 = From where can I purchase Elementify =
 
-You can purchase it by visiting our website, link below: 
-https://astoundify.com/products/elementify/
+You can purchase it by visiting our website, link below:
+[https://astoundify.com/products/elementify/](https://astoundify.com/products/elementify/)
 
 == Screenshots ==
 
 1. Search for required element. For Eg: About company features- To display progression of your company in a pictorial manner.
-2. Edit details as per your need. 
+2. Edit details as per your need.
 3. Add more items to the element and update.
 4. About company features_1. Frontend view
 5. About company features_2. Frontend view
